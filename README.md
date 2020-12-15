@@ -1,2 +1,2 @@
-# Pong-1.14.3
+# Pong
 Pong with Kivy
